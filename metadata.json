@@ -1,0 +1,6 @@
+{
+  "name": "Orbital - Mobile Gravity Simulator",
+  "description": "Mobile-optimized N-body gravity simulator with separated physics engine, leapfrog integration, bottom-sheet controls, and energy graphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
